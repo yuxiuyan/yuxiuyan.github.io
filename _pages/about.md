@@ -42,21 +42,23 @@ I am interested in bridging **design practice and HCI research** to explore new 
 **Dec 2025** — Joined the **Experience and Interaction Lab at Xi'an Jiaotong-Liverpool University** as a Research Assistant, advised by **Dr. Mengjie Huang**.
 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Conference Papers
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**[1]** Yan, Y., Huang, M., Wang, X., Su, C., & Yang, R. (2026). *A Research-Led Learning Framework for Human-Centered AI: Designing for Emotional Well-being through Interdisciplinary Integration.* International Conference on Artificial Intelligence in Education (ICAIE 2026). **Accepted.**
+**Excellent Oral Presentation Award, ICAIE 2026.**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**[2]** Chen, X., Cao, J., Yan, Y., & Xu, M. (2026). *In-Class Flipped Classroom in VR Environments: The Trade-off between Knowledge Retention and Design Confidence.* 2026 8th International Conference on Computer Science and Technologies in Education (CSTE 2026), 28–34. [\(DOI\)](https://doi.org/10.1109/CSTE69562.2026.11649593)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Manuscripts Under Review
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**[3]** Yan, Y., Chen, C.-X., Cui, Z., Ye, Z., ten Bhomer, M., & Zhou, A.-L. (2026). *Somatic Complicity: Revealing the Hidden Cost of LLM Interaction.* Under review, ACM International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2027).
+
+**[4]** Yan, Y., Huang, M., & Yang, R. (2026). *A Scoping Review of Human-Plant Interaction.* Under review, International Journal of Human-Computer Interaction (IJHCI).
+
+**[5]** Xu, H., Yan, Y., Hu, J., Yu, B., Xue, M., Zuo, T., Shen, M., & Liu, G. (2026). *Where Heritage Still Does Design Work: Translating Dunhuang into Serious-Purpose Interaction.* Under review, ACM Conference on Human Factors in Computing Systems (CHI 2027).
+
 
 # 🎖 Honors and Awards
 
