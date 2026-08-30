@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxiu Yan"
-description              : "Designer | Human–Computer Interaction | Sustainable HCI | AI Interaction"
+description              : "Designer | Human–Computer Interaction | Embodied Interaction | More-than-Human HCI"
 repository               : "Yuxiuww/Yuxiuww.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yuxiuyan0703@outlook.com"
+  email            : "yuxiu.yan@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
