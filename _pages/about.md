@@ -59,8 +59,15 @@ I am interested in bridging **design practice and HCI research** to explore new 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+* **Silver Award**, Marathon International Design Workshop — *Oct 2023*
+
+* **Second Prize**, 2nd Hong Kong Digital Art and Design Competition (HKDADC) — *Jun 2023*
+
+* **Third Prize**, National Advertising Art Competition for College Students (Sichuan Province) — *Sep 2022*
+
+* **Comprehensive Scholarship (Third Prize)**, Southwest Jiaotong University — *2021–2023*
+
 
 # 🎓 Education
 
@@ -72,10 +79,15 @@ I am interested in bridging **design practice and HCI research** to explore new 
   **Bachelor of Product Design**, Southwest Jiaotong University, Chengdu, China
   GPA: **3.55/4.0** · **Outstanding Graduate (University Level)**
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+**L'Oréal China | Product Development Intern**
+*May 2026 – Present*
+
+Coordinated packaging development for **12 products**, managing design iterations and sample timelines. Reviewed **70+ packaging samples** and established a standardized review process to reduce repeated iterations. Co-designed and tested a **GPT-based email extraction tool** for tracking sample progress across product lines; refined prompts through comparison with manual review, saving approximately **10 hours of team time weekly**.
+
+**Siemens Ltd., China | User Experience Intern**
+*Jan 2024 – Jul 2024*
+
+Conducted user research and interface analysis for industrial digital products. Built **20+ pages of interface prototypes** in Figma and Axure to support interaction design improvements. Collaborated with product managers and engineers through iterative design and development cycles.
+
