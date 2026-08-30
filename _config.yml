@@ -2,34 +2,34 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
+# For technical reasons, this file is NOT reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 title                    : "Yuxiu Yan"
-description              : "Designer | Human–Computer Interaction | Embodied Interaction | More-than-Human HCI"
+description              : "Industrial Designer | HCI Researcher | Embodied Interaction | More-than-Human HCI"
 repository               : "yuxiuyan/yuxiuyan.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# Google Analytics
+google_analytics_id      :
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
 # Site Author
 author:
   name             : "Yuxiu Yan"
   avatar           : "images/微信图片_20260625224731_333_14.jpg"
-  bio              : "Designer | HCI Researcher"
+  bio              : "Industrial Designer & HCI Researcher"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yuxiu.yan@outlook.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -41,17 +41,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yuxiu-yan-0a918a253""
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : "https://www.linkedin.com/in/yuxiu-yan-0a918a253"
+  dblp             :
   orcid            : "https://orcid.org/0009-0004-1727-6086"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+
 exclude:
   - docs
   - google_scholar_crawler
@@ -91,9 +92,11 @@ exclude:
   - package.json
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -117,9 +120,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
 # Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -131,12 +134,12 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
 
 # Plugins
@@ -146,7 +149,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
+# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -156,7 +160,6 @@ whitelist:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
