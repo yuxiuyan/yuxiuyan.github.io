@@ -17,14 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a **Master's student in Industrial Design** at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/), expected to graduate in 2027. I hold a **B.Eng. in Product Design** from [Southwest Jiaotong University](https://en.swjtu.edu.cn/). My research explores how **embodied and multisensory interaction** can make imperceptible phenomena—such as physiological states, the environmental costs of AI, non-human life, and cultural memory—perceptible, meaningful, and open to reflection.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a **Research Assistant at the Experience and Interaction Lab, XJTLU**, advised by [Dr. Mengjie Huang](https://www.xjtlu.edu.cn/), where my work spans **embodied interaction**, including *NeuroBloom Cocoon*, and **more-than-human HCI**, including a scoping review of human–plant interaction. I have also worked with **Dr. Aven Le Zhou** and **Dr. Martijn ten Bhömer** on *Somatic Complicity*, a Research through Design project investigating the embodied costs of AI, and with **Dr. Guanhong Liu** at Tongji University on a study of cultural heritage translation in interaction design.
+
+I am interested in bridging **design practice and HCI research** to explore new forms of interaction between people, intelligent systems, and the more-than-human world.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+**Jun 2026** — Started an internship in Product Development at **L'Oréal China**, working on packaging development and AI-assisted workflow design.
+
+**May 2026** — Joined the **HCIX Summer Research Program** as a Visiting Student Researcher, advised by **Dr. Guanhong Liu** (Tongji University), collaborating with **Haiqing Xu** on a study of cultural translation in Dunhuang heritage design.
+
+**May 2026** — *SilkDream Quest*, an interactive cultural heritage project for accessible museum education, was exhibited at the **Suzhou Silk Museum** as part of *Warp and Weft Without Boundaries* for International Museum Day.
+
+**May 2026** — *A Research-Led Learning Framework for Human-Centered AI* was accepted to **ICAIE 2026** and received the **Excellent Oral Presentation Award**.
+
+**Apr 2026** — *In-Class Flipped Classroom in VR Environments* was published in the **Proceedings of CSTE 2026**, pp. 28–34.
+
+**Mar 2026** — Began a scoping review of **Human–Plant Interaction** research within HCI and interaction design.
+
+**Dec 2025** — Joined the **Experience and Interaction Lab at Xi'an Jiaotong-Liverpool University** as a Research Assistant, advised by **Dr. Mengjie Huang**.
+
 
 # 📝 Publications 
 
@@ -46,9 +62,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Education
+
+* *Sep 2025 – Jul 2027 (Expected)*
+  **Master of Industrial Design**, Xi'an Jiaotong-Liverpool University, Suzhou, China
+  GPA: **3.79/4.0** · Merit-based Postgraduate Scholarship (**30% Tuition Reduction**)
+
+* *Sep 2020 – Jun 2024*
+  **Bachelor of Product Design**, Southwest Jiaotong University, Chengdu, China
+  GPA: **3.55/4.0** · **Outstanding Graduate (University Level)**
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
