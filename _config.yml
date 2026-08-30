@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuxiu Yan"
 description              : "Designer | Human–Computer Interaction | Embodied Interaction | More-than-Human HCI"
-repository               : "Yuxiuww/Yuxiuww.github.io"
+repository               : "yuxiuyan/yanyuxiu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuxiu Yan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/微信图片_20260625224731_333_14.jpg"
   bio              : "Designer | HCI Researcher"
   location         : "Shanghai, China"
   employer         :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "yuxiuyan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/yuxiu-yan-0a918a253""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0004-1727-6086"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
