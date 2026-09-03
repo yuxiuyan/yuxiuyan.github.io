@@ -29,7 +29,7 @@ I am interested in bridging **design practice and HCI research** to explore new 
 
 **Jun 2026** — Started an internship in Product Development at **L'Oréal China**, working on packaging development and AI-assisted workflow design.
 
-**May 2026** — Joined the **HCIX Summer Research Program** as a Visiting Student Researcher, advised by **Dr. Guanhong Liu** (Tongji University), collaborating with **Haiqing Xu** on a study of cultural translation in Dunhuang heritage design.
+**May 2026** — Joined the **HCIX Summer Research Program** as a Visiting Student Researcher at **The Hybrid-X Lab, Tongji University**, advised by **Assoc. Prof. Guanhong Liu**. Conducted research on cultural translation in Dunhuang heritage design with **Haiqing Xu**, resulting in a manuscript currently under review for **CHI 2027**.
 
 **May 2026** — *SilkDream Quest*, an interactive cultural heritage project for accessible museum education, was exhibited at the **Suzhou Silk Museum** as part of *Warp and Weft Without Boundaries* for International Museum Day.
 
