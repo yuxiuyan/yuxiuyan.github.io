@@ -107,3 +107,204 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* =========================================================
+   Research Interaction Layer
+   ========================================================= */
+
+.research-reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition:
+    opacity 0.8s ease,
+    transform 0.8s ease;
+}
+
+.research-reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+/* ---------------------------------------------------------
+   Research visual
+   --------------------------------------------------------- */
+
+.research-visual {
+  --mouse-x: 50%;
+  --mouse-y: 50%;
+
+  position: relative;
+  overflow: hidden;
+
+  min-height: 320px;
+  margin: 3rem 0;
+
+  border: 1px solid rgba(30, 30, 28, 0.10);
+  border-radius: 2px;
+
+  background:
+    radial-gradient(
+      circle at var(--mouse-x) var(--mouse-y),
+      rgba(125, 145, 128, 0.13),
+      transparent 30%
+    ),
+    #f5f3ee;
+}
+
+
+/* moving signal line */
+
+.research-visual::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(30, 30, 28, 0.05) 50%,
+      transparent 100%
+    );
+
+  transform: translateX(-100%);
+
+  animation:
+    research-sweep 8s linear infinite;
+}
+
+@keyframes research-sweep {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+
+/* subtle technical grid */
+
+.research-visual::after {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  background-image:
+    linear-gradient(
+      rgba(30, 30, 28, 0.035) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      90deg,
+      rgba(30, 30, 28, 0.035) 1px,
+      transparent 1px
+    );
+
+  background-size:
+    36px 36px;
+
+  pointer-events: none;
+}
+
+
+/* ---------------------------------------------------------
+   Research nodes
+   --------------------------------------------------------- */
+
+.research-node {
+  position: relative;
+
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  padding: 0.75rem 1rem;
+
+  border: 1px solid rgba(30, 30, 28, 0.15);
+
+  background: rgba(245, 243, 238, 0.82);
+
+  backdrop-filter: blur(8px);
+
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  transition:
+    transform 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.research-node::before {
+  content: "";
+
+  width: 6px;
+  height: 6px;
+
+  border-radius: 50%;
+
+  background: #7d9180;
+
+  transition:
+    transform 0.3s ease,
+    background 0.3s ease;
+}
+
+.research-node:hover {
+  transform: translateY(-3px);
+
+  border-color: rgba(200, 117, 93, 0.5);
+
+  box-shadow:
+    0 8px 24px rgba(30, 30, 28, 0.08);
+}
+
+.research-node.is-active::before {
+  background: #c8755d;
+
+  transform: scale(1.6);
+}
+
+
+/* ---------------------------------------------------------
+   Research statistics
+   --------------------------------------------------------- */
+
+.research-stat {
+  font-family: "IBM Plex Mono", monospace;
+
+  font-size: 2.4rem;
+  line-height: 1;
+
+  letter-spacing: -0.04em;
+}
+
+.research-stat-label {
+  margin-top: 0.5rem;
+
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  opacity: 0.6;
+}
+
+
+/* ---------------------------------------------------------
+   Reduced motion
+   --------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .research-reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .research-visual::before {
+    animation: none;
+  }
+}
