@@ -70,16 +70,25 @@ I am interested in bridging **design practice and HCI research** to explore new 
 
 * **Comprehensive Scholarship (Third Prize)**, Southwest Jiaotong University — *2021–2023*
 
-
 # 🎓 Education
 
-* *Sep 2025 – Jul 2027 (Expected)*
-  **Master of Industrial Design**, Xi'an Jiaotong-Liverpool University, Suzhou, China
-  GPA: **3.79/4.0** · Merit-based Postgraduate Scholarship (**30% Tuition Reduction**)
+<div style="display: flex; align-items: center; margin-bottom: 6px;">
+  <img src="/images/xjtlu-logo.png" alt="Xi'an Jiaotong-Liverpool University" style="width: 42px; height: 42px; object-fit: contain; margin-right: 12px;">
+  <strong>Xi'an Jiaotong-Liverpool University</strong>
+</div>
 
-* *Sep 2020 – Jun 2024*
-  **Bachelor of Product Design**, Southwest Jiaotong University, Chengdu, China
-  GPA: **3.55/4.0** · **Outstanding Graduate (University Level)**
+*Sep 2025 – Jul 2027 (Expected)*  
+**Master of Industrial Design**, Suzhou, China  
+GPA: **3.79/4.0** · Merit-based Postgraduate Scholarship (**30% Tuition Reduction**)
+
+<div style="display: flex; align-items: center; margin-top: 28px; margin-bottom: 6px;">
+  <img src="/images/swjtu-logo.png" alt="Southwest Jiaotong University" style="width: 42px; height: 42px; object-fit: contain; margin-right: 12px;">
+  <strong>Southwest Jiaotong University</strong>
+</div>
+
+*Sep 2020 – Jun 2024*  
+**Bachelor of Product Design**, Chengdu, China  
+GPA: **3.55/4.0** · **Outstanding Graduate (University Level)**
 
 # 💻 Internships
 
