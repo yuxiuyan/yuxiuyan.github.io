@@ -21,6 +21,75 @@ Hi, I'm **Yuxiu Yan (Iris)**, a Master's student in **Industrial Design** at [**
 
 My research focuses on **embodied interaction and Human–AI interaction**, exploring how **multisensory experiences can make invisible phenomena perceptible**—from embodied and physiological states to the environmental and cultural dimensions of technology. I am interested in bridging **design practice and HCI research** to create new ways of sensing, reflecting, and relating to the world around us.
 
+<section class="research-reveal">
+
+  <div class="research-visual">
+
+    <div style="
+      position: relative;
+      z-index: 2;
+      padding: 3rem;
+    ">
+
+      <div style="
+        font-size: 0.72rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        opacity: 0.55;
+        margin-bottom: 1.5rem;
+      ">
+        RESEARCH SYSTEM
+      </div>
+
+      <h2 style="
+        margin: 0 0 1rem;
+        font-size: 2.2rem;
+        font-weight: 500;
+        max-width: 650px;
+      ">
+        Designing ways to make
+        the invisible perceptible.
+      </h2>
+
+      <p style="
+        max-width: 620px;
+        margin-bottom: 2rem;
+        opacity: 0.7;
+      ">
+        Exploring embodied, multisensory and more-than-human
+        interaction across bodies, AI, environments and culture.
+      </p>
+
+      <div style="
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.7rem;
+      ">
+
+        <div class="research-node">
+          Embodied Interaction
+        </div>
+
+        <div class="research-node">
+          Human–AI Interaction
+        </div>
+
+        <div class="research-node">
+          More-than-Human HCI
+        </div>
+
+        <div class="research-node">
+          Cultural Heritage
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
 <div class="opportunity-note">
   <div class="pin">📌</div>
 
