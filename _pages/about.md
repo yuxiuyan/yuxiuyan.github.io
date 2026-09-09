@@ -83,12 +83,20 @@ I am interested in bridging **design practice and HCI research** to explore new 
 
 # 💻 Internships
 
-**L'Oréal China | Product Development Intern**
+<div style="display: flex; align-items: center; margin-bottom: 8px;">
+  <img src="/images/loreal-logo.png" alt="L'Oréal" style="width: 36px; height: 36px; object-fit: contain; margin-right: 10px;">
+  <strong>L'Oréal China | Product Development Intern</strong>
+</div>
+
 *May 2026 – Present*
 
 Coordinated packaging development for **12 products**, managing design iterations and sample timelines. Reviewed **70+ packaging samples** and established a standardized review process to reduce repeated iterations. Co-designed and tested a **GPT-based email extraction tool** for tracking sample progress across product lines; refined prompts through comparison with manual review, saving approximately **10 hours of team time weekly**.
 
-**Siemens Ltd., China | User Experience Intern**
+<div style="display: flex; align-items: center; margin-top: 24px; margin-bottom: 8px;">
+  <img src="/images/siemens-logo.png" alt="Siemens" style="width: 36px; height: 36px; object-fit: contain; margin-right: 10px;">
+  <strong>Siemens Ltd., China | User Experience Intern</strong>
+</div>
+
 *Jan 2024 – Jul 2024*
 
 Conducted user research and interface analysis for industrial digital products. Built **20+ pages of interface prototypes** in Figma and Axure to support interaction design improvements. Collaborated with product managers and engineers through iterative design and development cycles.
