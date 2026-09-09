@@ -23,10 +23,14 @@ My research focuses on **embodied interaction and Human–AI interaction**, expl
 
 <div class="opportunity-note">
   <div class="pin">📌</div>
-  <div class="opportunity-title">a small note</div>
+
+  <div class="opportunity-title">
+    Currently open to opportunities
+  </div>
+
   <div class="opportunity-text">
     I am currently applying to PhD programs and am open to
-    <strong>RA positions and research collaborations</strong>.
+    <strong>research assistant (RA) positions and research collaborations</strong>.
     Feel free to reach out about potential opportunities. <strong>: )</strong>
   </div>
 </div>
@@ -34,30 +38,33 @@ My research focuses on **embodied interaction and Human–AI interaction**, expl
 <style>
 .opportunity-note {
   position: relative;
-  margin: 2rem 0 2.5rem;
-  padding: 1.5rem 1.6rem 1.4rem;
-  background: #FFF7F8;
-  border: 1px solid #F1CCD4;
-  border-radius: 12px;
+  margin: 2.2rem 0 2.8rem;
+  padding: 1.7rem 1.8rem 1.6rem;
+  background: #FFF6F8;
+  border: 1px solid #F0C9D2;
+  border-radius: 14px;
 }
 
 .opportunity-note .pin {
   position: absolute;
-  top: -15px;
-  right: 18px;
-  font-size: 1.6rem;
-  transform: rotate(8deg);
+  top: -18px;
+  right: 22px;
+  font-size: 1.8rem;
+  transform: rotate(10deg);
+  filter: drop-shadow(0 2px 2px rgba(0,0,0,0.08));
 }
 
 .opportunity-title {
-  margin-bottom: 0.5rem;
-  font-size: 1.05rem;
+  margin-bottom: 0.55rem;
+  font-size: 1.08rem;
   font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
 .opportunity-text {
-  font-size: 0.95rem;
-  line-height: 1.7;
+  max-width: 900px;
+  font-size: 0.96rem;
+  line-height: 1.75;
 }
 
 .opportunity-text strong {
