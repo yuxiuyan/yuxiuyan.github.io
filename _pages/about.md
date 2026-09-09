@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Master's student in Industrial Design** at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/), expected to graduate in 2027. I hold a **B.Eng. in Product Design** from [Southwest Jiaotong University](https://en.swjtu.edu.cn/). My research explores how **embodied and multisensory interaction** can make imperceptible phenomena—such as physiological states, the environmental costs of AI, non-human life, and cultural memory—perceptible, meaningful, and open to reflection.
+I am a Master's student in Industrial Design at Xi'an Jiaotong-Liverpool University (XJTLU), with research interests in **embodied interaction, Human–AI interaction, and more-than-human HCI**. My work explores how multisensory and embodied experiences can make invisible phenomena perceptible and meaningful.
 
-I am a **Research Assistant at the Experience and Interaction Lab, XJTLU**, advised by [Dr. Mengjie Huang](https://www.xjtlu.edu.cn/), where my work spans **embodied interaction**, including *NeuroBloom Cocoon*, and **more-than-human HCI**, including a scoping review of human–plant interaction. I have also worked with **Dr. Aven Le Zhou** and **Dr. Martijn ten Bhömer** on *Somatic Complicity*, a Research through Design project investigating the embodied costs of AI, and with **Dr. Guanhong Liu** at Tongji University on a study of cultural heritage translation in interaction design.
-
-I am interested in bridging **design practice and HCI research** to explore new forms of interaction between people, intelligent systems, and the more-than-human world.
-
-
+I am a Research Assistant at the **Experience and Interaction Lab, XJTLU**, working at the intersection of **design practice and HCI research**.
 
 # 🔥 News
 
@@ -57,7 +53,7 @@ I am interested in bridging **design practice and HCI research** to explore new 
 
 **[4]** Yan, Y., Huang, M., & Yang, R. (2026). *A Scoping Review of Human-Plant Interaction.* Under review, International Journal of Human-Computer Interaction (IJHCI).
 
-**[5]** Xu, H., Yan, Y., Hu, J., Yu, B., Xue, M., Zuo, T., Shen, M., & Liu, G. (2026). *Where Heritage Still Does Design Work: Translating Dunhuang into Serious-Purpose Interaction.* Under review, ACM Conference on Human Factors in Computing Systems (CHI 2027).
+**[5]** Xu, H., Yan, Y., Liu, G., Yu, B., Xue, M., Zuo, T., Hu, J., & Shen, M. (2026). *Where Heritage Still Does Design Work: Translating Dunhuang into Serious-Purpose Interaction Design.* Under review, ACM Conference on Human Factors in Computing Systems (CHI 2027).
 
 
 # 🎖 Honors and Awards
