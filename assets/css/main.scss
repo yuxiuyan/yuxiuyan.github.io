@@ -10,7 +10,7 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+/* =========================================================
+   ORIGINAL CUSTOM STYLES
+   ========================================================= */
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,54 +53,56 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
+
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
-        
-        .paper-box-text{
+
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+
+$scroll_offset: 2em;
+
+h1:before,
+.anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
+
 
 .badge {
     padding-left: 1rem;
@@ -108,707 +115,720 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-    /* =========================================================
+
+/* =========================================================
    YUXIU YAN — MODERN ACADEMIC VISUAL SYSTEM
-   Cool Blue / Soft Cards / Research Studio
+   Cool Blue / Soft Rounded Cards / Research Studio
    ========================================================= */
 
-
-/* ---------------------------------------------------------
-   01. COLOR SYSTEM
-   --------------------------------------------------------- */
-
 :root {
-  --yy-blue: #315A8A;
-  --yy-blue-hover: #4B739F;
-  --yy-blue-pale: #F3F7FB;
-  --yy-blue-soft: #EAF1F8;
+    --yy-blue: #315A8A;
+    --yy-blue-hover: #4B739F;
 
-  --yy-bg: #FAFBFD;
-  --yy-card: #FFFFFF;
+    --yy-blue-pale: #F3F7FB;
+    --yy-blue-soft: #EAF1F8;
 
-  --yy-text: #202938;
-  --yy-muted: #687386;
+    --yy-bg: #FAFBFD;
+    --yy-card: #FFFFFF;
 
-  --yy-border: #DCE5EF;
-  --yy-border-strong: #C8D6E5;
+    --yy-text: #202938;
+    --yy-muted: #687386;
 
-  --yy-radius-sm: 10px;
-  --yy-radius-md: 16px;
-  --yy-radius-lg: 20px;
+    --yy-border: #DCE5EF;
+    --yy-border-strong: #C8D6E5;
+
+    --yy-radius-sm: 10px;
+    --yy-radius-md: 16px;
+    --yy-radius-lg: 20px;
 }
 
 
-/* ---------------------------------------------------------
-   02. GLOBAL
-   --------------------------------------------------------- */
+/* =========================================================
+   GLOBAL
+   ========================================================= */
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
-  background: var(--yy-bg);
-  color: var(--yy-text);
+    background: var(--yy-bg);
+    color: var(--yy-text);
 }
 
 
-/* ---------------------------------------------------------
-   03. LINKS
-   --------------------------------------------------------- */
+/* =========================================================
+   LINKS
+   ========================================================= */
 
 a {
-  color: var(--yy-blue);
+    color: var(--yy-blue);
 
-  transition:
-    color 0.25s ease,
-    opacity 0.25s ease;
+    transition:
+        color 0.25s ease,
+        opacity 0.25s ease;
 }
 
 a:hover {
-  color: var(--yy-blue-hover);
+    color: var(--yy-blue-hover);
 }
 
 
-/* ---------------------------------------------------------
-   04. HEADINGS
-   --------------------------------------------------------- */
+/* =========================================================
+   HEADINGS
+   ========================================================= */
 
 h1,
 h2,
 h3,
 h4 {
-  color: var(--yy-text);
+    color: var(--yy-text);
 }
 
 h2 {
-  letter-spacing: -0.02em;
+    letter-spacing: -0.02em;
 }
 
 
-/* ---------------------------------------------------------
-   05. SOFT SECTION
-   --------------------------------------------------------- */
+/* =========================================================
+   SECTION
+   ========================================================= */
 
 .yy-section {
-  margin: 3rem 0;
+    margin: 3rem 0;
 }
 
 
-/* ---------------------------------------------------------
-   06. SECTION LABEL
-   --------------------------------------------------------- */
+/* =========================================================
+   SECTION LABEL
+   ========================================================= */
 
 .yy-section-label {
-  margin-bottom: 0.75rem;
+    margin-bottom: 0.75rem;
 
-  color: var(--yy-blue);
+    color: var(--yy-blue);
 
-  font-size: 0.72rem;
-  font-weight: 600;
+    font-size: 0.72rem;
+    font-weight: 600;
 
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
 }
 
 
-/* ---------------------------------------------------------
-   07. RESEARCH HERO
-   --------------------------------------------------------- */
+/* =========================================================
+   RESEARCH HERO
+   ========================================================= */
 
 .yy-research-hero {
-  position: relative;
+    position: relative;
+    overflow: hidden;
 
-  overflow: hidden;
+    margin: 2.5rem 0 3rem;
+    padding: 3rem;
 
-  margin: 2.5rem 0 3rem;
-  padding: 3rem;
+    background:
+        radial-gradient(
+            circle at 85% 20%,
+            rgba(95, 134, 179, 0.12),
+            transparent 28%
+        ),
+        var(--yy-blue-pale);
 
-  background:
-    radial-gradient(
-      circle at 85% 20%,
-      rgba(95, 134, 179, 0.12),
-      transparent 28%
-    ),
-    var(--yy-blue-pale);
+    border: 1px solid var(--yy-border);
 
-  border:
-    1px solid var(--yy-border);
+    border-radius: var(--yy-radius-lg);
 
-  border-radius:
-    var(--yy-radius-lg);
-
-  box-shadow:
-    0 10px 35px rgba(49, 90, 138, 0.05);
+    box-shadow:
+        0 10px 35px rgba(49, 90, 138, 0.05);
 }
 
 
-/* subtle technical grid */
+/* =========================================================
+   SUBTLE GRID
+   ========================================================= */
 
 .yy-research-hero::after {
-  content: "";
+    content: "";
 
-  position: absolute;
+    position: absolute;
 
-  inset: 0;
+    inset: 0;
 
-  pointer-events: none;
+    pointer-events: none;
 
-  background-image:
-    linear-gradient(
-      rgba(49, 90, 138, 0.035) 1px,
-      transparent 1px
-    ),
-    linear-gradient(
-      90deg,
-      rgba(49, 90, 138, 0.035) 1px,
-      transparent 1px
-    );
+    background-image:
+        linear-gradient(
+            rgba(49, 90, 138, 0.035) 1px,
+            transparent 1px
+        ),
+        linear-gradient(
+            90deg,
+            rgba(49, 90, 138, 0.035) 1px,
+            transparent 1px
+        );
 
-  background-size: 36px 36px;
+    background-size: 36px 36px;
 }
 
 
-/* ---------------------------------------------------------
-   08. RESEARCH TITLE
-   --------------------------------------------------------- */
+/* =========================================================
+   RESEARCH TITLE
+   ========================================================= */
 
 .yy-research-title {
-  position: relative;
+    position: relative;
 
-  z-index: 2;
+    z-index: 2;
 
-  max-width: 760px;
+    max-width: 760px;
 
-  margin: 0;
+    margin: 0;
 
-  font-size: clamp(
-    2rem,
-    4vw,
-    3.4rem
-  );
+    font-size: clamp(
+        2rem,
+        4vw,
+        3.4rem
+    );
 
-  line-height: 1.08;
+    line-height: 1.08;
 
-  font-weight: 600;
+    font-weight: 600;
 
-  letter-spacing:
-    -0.04em;
+    letter-spacing: -0.04em;
 }
 
 
-/* ---------------------------------------------------------
-   09. RESEARCH DESCRIPTION
-   --------------------------------------------------------- */
+/* =========================================================
+   RESEARCH DESCRIPTION
+   ========================================================= */
 
 .yy-research-description {
-  position: relative;
+    position: relative;
 
-  z-index: 2;
+    z-index: 2;
 
-  max-width: 680px;
+    max-width: 680px;
 
-  margin-top: 1.25rem;
+    margin-top: 1.25rem;
 
-  color: var(--yy-muted);
+    color: var(--yy-muted);
 
-  font-size: 1rem;
+    font-size: 1rem;
 
-  line-height: 1.75;
+    line-height: 1.75;
 }
 
 
-/* ---------------------------------------------------------
-   10. TAG SYSTEM
-   --------------------------------------------------------- */
+/* =========================================================
+   TAG SYSTEM
+   ========================================================= */
 
 .yy-tags {
-  position: relative;
+    position: relative;
 
-  z-index: 2;
+    z-index: 2;
 
-  display: flex;
+    display: flex;
 
-  flex-wrap: wrap;
+    flex-wrap: wrap;
 
-  gap: 0.6rem;
+    gap: 0.6rem;
 
-  margin-top: 1.75rem;
+    margin-top: 1.75rem;
 }
 
 
 .yy-tag {
-  display: inline-flex;
+    display: inline-flex;
 
-  align-items: center;
+    align-items: center;
 
-  padding:
-    0.55rem 0.85rem;
+    padding:
+        0.55rem 0.85rem;
 
-  background:
-    rgba(255, 255, 255, 0.85);
+    background:
+        rgba(255, 255, 255, 0.85);
 
-  border:
-    1px solid var(--yy-border);
+    border:
+        1px solid var(--yy-border);
 
-  border-radius:
-    999px;
+    border-radius:
+        999px;
 
-  color:
-    var(--yy-blue);
+    color:
+        var(--yy-blue);
 
-  font-size:
-    0.76rem;
+    font-size:
+        0.76rem;
 
-  font-weight:
-    500;
+    font-weight:
+        500;
 
-  letter-spacing:
-    0.02em;
+    letter-spacing:
+        0.02em;
 
-  backdrop-filter:
-    blur(8px);
+    backdrop-filter:
+        blur(8px);
 
-  transition:
-    transform 0.25s ease,
-    border-color 0.25s ease,
-    background 0.25s ease;
+    transition:
+        transform 0.25s ease,
+        border-color 0.25s ease,
+        background 0.25s ease;
 }
 
 
 .yy-tag:hover {
-  transform:
-    translateY(-2px);
+    transform:
+        translateY(-2px);
 
-  background:
-    #FFFFFF;
+    background:
+        #FFFFFF;
 
-  border-color:
-    var(--yy-blue);
+    border-color:
+        var(--yy-blue);
 }
 
 
-/* ---------------------------------------------------------
-   11. RESEARCH CARDS
-   --------------------------------------------------------- */
+/* =========================================================
+   RESEARCH GRID
+   ========================================================= */
 
 .yy-grid {
-  display: grid;
+    display: grid;
 
-  grid-template-columns:
-    repeat(
-      2,
-      minmax(0, 1fr)
-    );
+    grid-template-columns:
+        repeat(
+            2,
+            minmax(0, 1fr)
+        );
 
-  gap: 1.25rem;
+    gap: 1.25rem;
 
-  margin-top: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 
+/* =========================================================
+   RESEARCH CARD
+   ========================================================= */
+
 .yy-card {
-  position: relative;
+    position: relative;
 
-  overflow: hidden;
+    overflow: hidden;
 
-  padding: 1.5rem;
+    padding: 1.5rem;
 
-  background:
-    var(--yy-card);
+    background:
+        var(--yy-card);
 
-  border:
-    1px solid var(--yy-border);
+    border:
+        1px solid var(--yy-border);
 
-  border-radius:
-    var(--yy-radius-md);
+    border-radius:
+        var(--yy-radius-md);
 
-  transition:
-    transform 0.3s ease,
-    border-color 0.3s ease,
-    box-shadow 0.3s ease;
+    transition:
+        transform 0.3s ease,
+        border-color 0.3s ease,
+        box-shadow 0.3s ease;
 }
 
 
 .yy-card:hover {
-  transform:
-    translateY(-4px);
+    transform:
+        translateY(-4px);
 
-  border-color:
-    var(--yy-border-strong);
+    border-color:
+        var(--yy-border-strong);
 
-  box-shadow:
-    0 12px 32px
-    rgba(49, 90, 138, 0.08);
+    box-shadow:
+        0 12px 32px
+        rgba(49, 90, 138, 0.08);
 }
 
 
-/* blue bottom line */
+/* =========================================================
+   CARD BLUE UNDERLINE
+   ========================================================= */
 
 .yy-card::after {
-  content: "";
+    content: "";
 
-  position: absolute;
+    position: absolute;
 
-  left: 0;
-  bottom: 0;
+    left: 0;
+    bottom: 0;
 
-  width: 0;
-  height: 2px;
+    width: 0;
+    height: 2px;
 
-  background:
-    var(--yy-blue);
+    background:
+        var(--yy-blue);
 
-  transition:
-    width 0.35s ease;
+    transition:
+        width 0.35s ease;
 }
 
 
 .yy-card:hover::after {
-  width: 100%;
+    width: 100%;
 }
 
 
-/* ---------------------------------------------------------
-   12. CARD INDEX
-   --------------------------------------------------------- */
+/* =========================================================
+   CARD INDEX
+   ========================================================= */
 
 .yy-card-index {
-  margin-bottom: 1rem;
+    margin-bottom:
+        1rem;
 
-  color:
-    var(--yy-blue);
+    color:
+        var(--yy-blue);
 
-  font-family:
-    "IBM Plex Mono",
-    monospace;
+    font-family:
+        "IBM Plex Mono",
+        monospace;
 
-  font-size:
-    0.7rem;
+    font-size:
+        0.7rem;
 
-  letter-spacing:
-    0.08em;
+    letter-spacing:
+        0.08em;
 }
 
 
-/* ---------------------------------------------------------
-   13. CARD TITLE
-   --------------------------------------------------------- */
+/* =========================================================
+   CARD TITLE
+   ========================================================= */
 
 .yy-card-title {
-  margin:
-    0 0 0.6rem;
+    margin:
+        0 0 0.6rem;
 
-  font-size:
-    1.15rem;
+    font-size:
+        1.15rem;
 
-  line-height:
-    1.35;
+    line-height:
+        1.35;
 }
 
 
-/* ---------------------------------------------------------
-   14. CARD DESCRIPTION
-   --------------------------------------------------------- */
+/* =========================================================
+   CARD TEXT
+   ========================================================= */
 
 .yy-card-text {
-  margin: 0;
+    margin:
+        0;
 
-  color:
-    var(--yy-muted);
+    color:
+        var(--yy-muted);
 
-  font-size:
-    0.88rem;
+    font-size:
+        0.88rem;
 
-  line-height:
-    1.7;
+    line-height:
+        1.7;
 }
 
 
-/* ---------------------------------------------------------
-   15. PROJECT CARD
-   --------------------------------------------------------- */
+/* =========================================================
+   PROJECT CARD
+   ========================================================= */
 
 .yy-project {
-  overflow: hidden;
+    overflow:
+        hidden;
 
-  background:
-    var(--yy-card);
+    background:
+        var(--yy-card);
 
-  border:
-    1px solid var(--yy-border);
+    border:
+        1px solid var(--yy-border);
 
-  border-radius:
-    var(--yy-radius-md);
+    border-radius:
+        var(--yy-radius-md);
 
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease,
-    border-color 0.3s ease;
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease,
+        border-color 0.3s ease;
 }
 
 
 .yy-project:hover {
-  transform:
-    translateY(-5px);
+    transform:
+        translateY(-5px);
 
-  border-color:
-    var(--yy-border-strong);
+    border-color:
+        var(--yy-border-strong);
 
-  box-shadow:
-    0 14px 34px
-    rgba(49, 90, 138, 0.09);
+    box-shadow:
+        0 14px 34px
+        rgba(49, 90, 138, 0.09);
 }
 
 
+/* =========================================================
+   PROJECT IMAGE
+   ========================================================= */
+
 .yy-project-image {
-  display: block;
+    display:
+        block;
 
-  width: 100%;
+    width:
+        100%;
 
-  aspect-ratio:
-    16 / 10;
+    aspect-ratio:
+        16 / 10;
 
-  object-fit:
-    cover;
+    object-fit:
+        cover;
 
-  transition:
-    transform 0.5s ease;
+    transition:
+        transform 0.5s ease;
 }
 
 
 .yy-project:hover
 .yy-project-image {
-  transform:
-    scale(1.025);
+    transform:
+        scale(1.025);
 }
 
 
 .yy-project-content {
-  padding:
-    1.25rem 1.4rem 1.5rem;
+    padding:
+        1.25rem 1.4rem 1.5rem;
 }
 
 
-/* ---------------------------------------------------------
-   16. PROJECT META
-   --------------------------------------------------------- */
+/* =========================================================
+   PROJECT META
+   ========================================================= */
 
 .yy-project-meta {
-  margin-bottom:
-    0.55rem;
+    margin-bottom:
+        0.55rem;
 
-  color:
-    var(--yy-blue);
+    color:
+        var(--yy-blue);
 
-  font-size:
-    0.7rem;
+    font-size:
+        0.7rem;
 
-  font-weight:
-    600;
+    font-weight:
+        600;
 
-  letter-spacing:
-    0.1em;
+    letter-spacing:
+        0.1em;
 
-  text-transform:
-    uppercase;
+    text-transform:
+        uppercase;
 }
 
 
-/* ---------------------------------------------------------
-   17. STATISTICS
-   --------------------------------------------------------- */
+/* =========================================================
+   STATISTICS
+   ========================================================= */
 
 .yy-stats {
-  display: grid;
+    display:
+        grid;
 
-  grid-template-columns:
-    repeat(
-      3,
-      minmax(0, 1fr)
-    );
+    grid-template-columns:
+        repeat(
+            3,
+            minmax(0, 1fr)
+        );
 
-  gap:
-    1rem;
+    gap:
+        1rem;
 
-  margin:
-    2rem 0;
+    margin:
+        2rem 0;
 }
 
 
 .yy-stat {
-  padding:
-    1.25rem;
+    padding:
+        1.25rem;
 
-  background:
-    var(--yy-card);
+    background:
+        var(--yy-card);
 
-  border:
-    1px solid var(--yy-border);
+    border:
+        1px solid var(--yy-border);
 
-  border-radius:
-    var(--yy-radius-md);
+    border-radius:
+        var(--yy-radius-md);
 }
 
 
 .yy-stat-number {
-  display: block;
+    display:
+        block;
 
-  color:
-    var(--yy-blue);
+    color:
+        var(--yy-blue);
 
-  font-family:
-    "IBM Plex Mono",
-    monospace;
+    font-family:
+        "IBM Plex Mono",
+        monospace;
 
-  font-size:
-    2rem;
+    font-size:
+        2rem;
 
-  line-height:
-    1;
+    line-height:
+        1;
 
-  letter-spacing:
-    -0.04em;
+    letter-spacing:
+        -0.04em;
 }
 
 
 .yy-stat-label {
-  display: block;
+    display:
+        block;
 
-  margin-top:
-    0.55rem;
+    margin-top:
+        0.55rem;
 
-  color:
-    var(--yy-muted);
+    color:
+        var(--yy-muted);
 
-  font-size:
-    0.72rem;
+    font-size:
+        0.72rem;
 
-  line-height:
-    1.4;
+    line-height:
+        1.4;
 
-  text-transform:
-    uppercase;
+    text-transform:
+        uppercase;
 
-  letter-spacing:
-    0.08em;
+    letter-spacing:
+        0.08em;
 }
 
 
-/* ---------------------------------------------------------
-   18. RESEARCH VISUAL
-   --------------------------------------------------------- */
+/* =========================================================
+   RESEARCH VISUAL
+   ========================================================= */
 
 .research-visual {
-  position:
-    relative;
+    position:
+        relative;
 
-  overflow:
-    hidden;
+    overflow:
+        hidden;
 
-  min-height:
-    300px;
+    min-height:
+        300px;
 
-  margin:
-    2rem 0;
+    margin:
+        2rem 0;
 
-  background:
-    var(--yy-blue-pale);
+    background:
+        var(--yy-blue-pale);
 
-  border:
-    1px solid var(--yy-border);
+    border:
+        1px solid var(--yy-border);
 
-  border-radius:
-    var(--yy-radius-lg);
+    border-radius:
+        var(--yy-radius-lg);
 }
 
 
-/* ---------------------------------------------------------
-   19. FADE-IN
-   --------------------------------------------------------- */
+/* =========================================================
+   FADE IN
+   ========================================================= */
 
 .research-reveal {
-  opacity:
-    0;
+    opacity:
+        0;
 
-  transform:
-    translateY(18px);
+    transform:
+        translateY(18px);
 
-  transition:
-    opacity 0.8s ease,
-    transform 0.8s ease;
+    transition:
+        opacity 0.8s ease,
+        transform 0.8s ease;
 }
 
 
 .research-reveal.is-visible {
-  opacity:
-    1;
+    opacity:
+        1;
 
-  transform:
-    translateY(0);
+    transform:
+        translateY(0);
 }
 
 
-/* ---------------------------------------------------------
-   20. MOBILE
-   --------------------------------------------------------- */
+/* =========================================================
+   MOBILE
+   ========================================================= */
 
 @media screen and (max-width: 768px) {
 
-  .yy-research-hero {
-    padding:
-      2rem 1.5rem;
-  }
+    .yy-research-hero {
+        padding:
+            2rem 1.5rem;
+    }
 
-  .yy-grid {
-    grid-template-columns:
-      1fr;
-  }
+    .yy-grid {
+        grid-template-columns:
+            1fr;
+    }
 
-  .yy-stats {
-    grid-template-columns:
-      1fr;
-  }
+    .yy-stats {
+        grid-template-columns:
+            1fr;
+    }
+
+    .yy-research-title {
+        font-size:
+            2rem;
+    }
 
 }
 
 
-/* ---------------------------------------------------------
-   21. REDUCED MOTION
-   --------------------------------------------------------- */
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
 
 @media (prefers-reduced-motion: reduce) {
 
-  html {
-    scroll-behavior:
-      auto;
-  }
+    html {
+        scroll-behavior:
+            auto;
+    }
 
-  .yy-card,
-  .yy-project,
-  .yy-tag,
-  .research-reveal {
-    transition:
-      none;
-  }
+    .yy-card,
+    .yy-project,
+    .yy-tag,
+    .research-reveal {
+        transition:
+            none;
+    }
 
-  .yy-card:hover,
-  .yy-project:hover,
-  .yy-tag:hover {
-    transform:
-      none;
-  }
+    .yy-card:hover,
+    .yy-project:hover,
+    .yy-tag:hover {
+        transform:
+            none;
+    }
 
-  .research-reveal {
-    opacity:
-      1;
+    .research-reveal {
+        opacity:
+            1;
 
-    transform:
-      none;
-  }
-}
-
-  .research-visual::before {
-    animation: none;
-  }
+        transform:
+            none;
+    }
 }
