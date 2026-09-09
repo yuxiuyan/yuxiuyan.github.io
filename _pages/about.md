@@ -76,21 +76,149 @@ My research focuses on **embodied interaction and Human–AI interaction**, expl
 }
 </style>
 
-# 🔥 News
+<div class="news-box">
+  <div class="news-header">🔥 News</div>
 
-**Jun 2026** — Started an internship in Product Development at **L'Oréal China**, working on packaging development and AI-assisted workflow design.
+  <div class="news-scroll">
 
-**May 2026** — Joined the **HCIX Summer Research Program** as a Visiting Student Researcher at **The Hybrid-X Lab, Tongji University**, advised by **Assoc. Prof. Guanhong Liu**. Conducted research on cultural translation in Dunhuang heritage design with **Haiqing Xu**, resulting in a manuscript currently under review for **CHI 2027**.
+    <div class="news-item">
+      <div class="news-date">Jun 2026</div>
+      <div class="news-content">
+        Started an internship in Product Development at
+        <strong>L'Oréal China</strong>, working on packaging development and
+        AI-assisted workflow design.
+      </div>
+    </div>
 
-**May 2026** — *SilkDream Quest*, an interactive cultural heritage project for accessible museum education, was exhibited at the **Suzhou Silk Museum** as part of *Warp and Weft Without Boundaries* for International Museum Day.
+    <div class="news-item">
+      <div class="news-date">May 2026</div>
+      <div class="news-content">
+        Joined the <strong>HCIX Summer Research Program</strong> as a Visiting
+        Student Researcher at <strong>The Hybrid-X Lab, Tongji University</strong>,
+        advised by <strong>Assoc. Prof. Guanhong Liu</strong>. Conducted research
+        on cultural translation in Dunhuang heritage design with
+        <strong>Haiqing Xu</strong>, resulting in a manuscript currently under
+        review for <strong>CHI 2027</strong>.
+      </div>
+    </div>
 
-**May 2026** — *A Research-Led Learning Framework for Human-Centered AI* was accepted to **ICAIE 2026** and received the **Excellent Oral Presentation Award**.
+    <div class="news-item">
+      <div class="news-date">May 2026</div>
+      <div class="news-content">
+        <em>SilkDream Quest</em>, an interactive cultural heritage project for
+        accessible museum education, was exhibited at the
+        <strong>Suzhou Silk Museum</strong> as part of
+        <em>Warp and Weft Without Boundaries</em> for International Museum Day.
+      </div>
+    </div>
 
-**Apr 2026** — *In-Class Flipped Classroom in VR Environments* was published in the **Proceedings of CSTE 2026**, pp. 28–34.
+    <div class="news-item">
+      <div class="news-date">May 2026</div>
+      <div class="news-content">
+        <em>A Research-Led Learning Framework for Human-Centered AI</em> was
+        accepted to <strong>ICAIE 2026</strong> and received the
+        <strong>Excellent Oral Presentation Award</strong>.
+      </div>
+    </div>
 
-**Mar 2026** — Began a scoping review of **Human–Plant Interaction** research within HCI and interaction design.
+    <div class="news-item">
+      <div class="news-date">Apr 2026</div>
+      <div class="news-content">
+        <em>In-Class Flipped Classroom in VR Environments</em> was published in
+        the <strong>Proceedings of CSTE 2026</strong>, pp. 28–34.
+      </div>
+    </div>
 
-**Dec 2025** — Joined the **Experience and Interaction Lab at Xi'an Jiaotong-Liverpool University** as a Research Assistant, advised by **Dr. Mengjie Huang**.
+    <div class="news-item">
+      <div class="news-date">Mar 2026</div>
+      <div class="news-content">
+        Began a scoping review of <strong>Human–Plant Interaction</strong>
+        research within HCI and interaction design.
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">Dec 2025</div>
+      <div class="news-content">
+        Joined the <strong>Experience and Interaction Lab at
+        Xi'an Jiaotong-Liverpool University</strong> as a Research Assistant,
+        advised by <strong>Dr. Mengjie Huang</strong>.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.news-box {
+  margin: 2rem 0 2.5rem;
+  padding: 1.2rem 1.4rem;
+  background: #FAFCFD;
+  border: 1px solid #DCE7ED;
+  border-radius: 12px;
+}
+
+.news-header {
+  margin-bottom: 0.8rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #24465A;
+}
+
+.news-scroll {
+  max-height: 280px;
+  overflow-y: auto;
+  padding-right: 0.8rem;
+  scroll-behavior: smooth;
+}
+
+.news-item {
+  display: flex;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #E8EFF3;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  flex: 0 0 75px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #6E8FA1;
+  padding-top: 0.1rem;
+}
+
+.news-content {
+  font-size: 0.93rem;
+  line-height: 1.7;
+  color: #394B57;
+}
+
+.news-content strong {
+  color: #24465A;
+  font-weight: 600;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 5px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #C8DDEA;
+  border-radius: 10px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb:hover {
+  background: #AFC9D8;
+}
+</style>
 
 # 🎓 Education
 
