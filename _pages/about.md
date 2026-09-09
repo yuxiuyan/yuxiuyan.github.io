@@ -17,9 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Industrial Design at Xi'an Jiaotong-Liverpool University (XJTLU), with research interests in **embodied interaction, Human–AI interaction, and more-than-human HCI**. My work explores how multisensory and embodied experiences can make invisible phenomena perceptible and meaningful.
+Hi, I'm **Yuxiu Yan**, a Master's student in **Industrial Design** at [***Xi'an Jiaotong-Liverpool University***](https://www.xjtlu.edu.cn/), with a bachelor's degree in **Product Design** from [***Southwest Jiaotong University***](https://en.swjtu.edu.cn/).
 
-I am a Research Assistant at the **Experience and Interaction Lab, XJTLU**, working at the intersection of **design practice and HCI research**.
+My research focuses on **embodied interaction and Human–AI interaction**, exploring how **multisensory experiences can make invisible phenomena perceptible**—from embodied and physiological states to the environmental and cultural dimensions of technology. I am interested in bridging **design practice and HCI research** to create new ways of sensing, reflecting, and relating to the world around us.
+
+<div class="opportunity-note">
+  <div class="opportunity-title">📌 Currently open to opportunities</div>
+  <div class="opportunity-text">
+    I am currently applying to PhD programs and remain open to
+    <strong>research assistant (RA) positions and research collaborations</strong>.
+    Feel free to reach out about potential opportunities. <strong>: )</strong>
+  </div>
+</div>
+
 
 # 🔥 News
 
