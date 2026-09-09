@@ -90,6 +90,10 @@ Coordinated packaging development for **12 products**, managing design iteration
   <strong>Siemens Ltd., China | User Experience Intern</strong>
 </div>
 
+*Jan 2024 – Jul 2024*
+
+Conducted user research and interface analysis for industrial digital products. Built **20+ pages of interface prototypes** in Figma and Axure to support interaction design improvements. Collaborated with product managers and engineers through iterative design and development cycles.
+
 # 🎖 Honors and Awards
 
 * **Silver Award**, Marathon International Design Workshop — *Oct 2023*
@@ -99,8 +103,3 @@ Coordinated packaging development for **12 products**, managing design iteration
 * **Third Prize**, National Advertising Art Competition for College Students (Sichuan Province) — *Sep 2022*
 
 * **Comprehensive Scholarship (Third Prize)**, Southwest Jiaotong University — *2021–2023*
-
-*Jan 2024 – Jul 2024*
-
-Conducted user research and interface analysis for industrial digital products. Built **20+ pages of interface prototypes** in Figma and Axure to support interaction design improvements. Collaborated with product managers and engineers through iterative design and development cycles.
-
