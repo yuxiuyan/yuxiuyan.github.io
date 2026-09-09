@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Yuxiu Yan**, a Master's student in **Industrial Design** at [***Xi'an Jiaotong-Liverpool University***](https://www.xjtlu.edu.cn/), with a bachelor's degree in **Product Design** from [***Southwest Jiaotong University***](https://en.swjtu.edu.cn/).
+Hi, I'm **Yuxiu Yan (Iris)**, a Master's student in **Industrial Design** at [***Xi'an Jiaotong-Liverpool University***](https://www.xjtlu.edu.cn/), with a bachelor's degree in **Product Design** from [***Southwest Jiaotong University***](https://en.swjtu.edu.cn/).
 
 My research focuses on **embodied interaction and Human–AI interaction**, exploring how **multisensory experiences can make invisible phenomena perceptible**—from embodied and physiological states to the environmental and cultural dimensions of technology. I am interested in bridging **design practice and HCI research** to create new ways of sensing, reflecting, and relating to the world around us.
 
