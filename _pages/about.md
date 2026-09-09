@@ -29,8 +29,9 @@ My research focuses on **embodied interaction and Human–AI interaction**, expl
   </div>
 
   <div class="opportunity-text">
-    I am currently applying to <strong>PhD programs<strong> and am open to
-    <strong>research assistant (RA) positions and research collaborations</strong>.
+    I am currently applying to <strong>PhD programs</strong> and am open to
+    <strong>research assistant (RA) positions</strong> and
+    <strong>research collaborations</strong>.
     Feel free to reach out about potential opportunities. <strong>: )</strong>
   </div>
 </div>
@@ -74,7 +75,6 @@ My research focuses on **embodied interaction and Human–AI interaction**, expl
   color: #24465A;
 }
 </style>
-
 
 # 🔥 News
 
