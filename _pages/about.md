@@ -21,72 +21,182 @@ Hi, I'm **Yuxiu Yan (Iris)**, a Master's student in **Industrial Design** at [**
 
 My research focuses on **embodied interaction and Human–AI interaction**, exploring how **multisensory experiences can make invisible phenomena perceptible**—from embodied and physiological states to the environmental and cultural dimensions of technology. I am interested in bridging **design practice and HCI research** to create new ways of sensing, reflecting, and relating to the world around us.
 
-<section class="research-reveal">
+<div class="research-reveal">
 
-  <div class="research-visual">
+  <div class="yy-section">
 
-    <div style="
-      position: relative;
-      z-index: 2;
-      padding: 3rem;
-    ">
+    <div class="yy-section-label">
+      RESEARCH
+    </div>
 
-      <div style="
-        font-size: 0.72rem;
-        letter-spacing: 0.14em;
-        text-transform: uppercase;
-        opacity: 0.55;
-        margin-bottom: 1.5rem;
-      ">
-        RESEARCH SYSTEM
-      </div>
+    <div class="yy-research-hero">
 
-      <h2 style="
-        margin: 0 0 1rem;
-        font-size: 2.2rem;
-        font-weight: 500;
-        max-width: 650px;
-      ">
+      <h2 class="yy-research-title">
         Designing ways to make
         the invisible perceptible.
       </h2>
 
-      <p style="
-        max-width: 620px;
-        margin-bottom: 2rem;
-        opacity: 0.7;
-      ">
-        Exploring embodied, multisensory and more-than-human
-        interaction across bodies, AI, environments and culture.
+      <p class="yy-research-description">
+        I explore how interaction can make otherwise invisible
+        phenomena perceptible through embodied, multisensory,
+        and more-than-human approaches.
       </p>
 
-      <div style="
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.7rem;
-      ">
+      <div class="yy-tags">
 
-        <div class="research-node">
+        <span class="yy-tag">
           Embodied Interaction
-        </div>
+        </span>
 
-        <div class="research-node">
+        <span class="yy-tag">
           Human–AI Interaction
-        </div>
+        </span>
 
-        <div class="research-node">
+        <span class="yy-tag">
           More-than-Human HCI
-        </div>
+        </span>
 
-        <div class="research-node">
+        <span class="yy-tag">
           Cultural Heritage
-        </div>
+        </span>
 
       </div>
 
     </div>
 
   </div>
+
+</div>
+
+<div class="research-reveal">
+
+  <div class="yy-section">
+
+    <div class="yy-section-label">
+      RESEARCH AREAS
+    </div>
+
+    <div class="yy-grid">
+
+      <div class="yy-card">
+
+        <div class="yy-card-index">
+          01
+        </div>
+
+        <h3 class="yy-card-title">
+          Embodied Interaction
+        </h3>
+
+        <p class="yy-card-text">
+          Exploring how bodies, materials, sensing,
+          and movement can become part of interactive systems.
+        </p>
+
+      </div>
+
+
+      <div class="yy-card">
+
+        <div class="yy-card-index">
+          02
+        </div>
+
+        <h3 class="yy-card-title">
+          Human–AI Interaction
+        </h3>
+
+        <p class="yy-card-text">
+          Investigating how AI-mediated systems reshape
+          interaction, agency, and experience.
+        </p>
+
+      </div>
+
+
+      <div class="yy-card">
+
+        <div class="yy-card-index">
+          03
+        </div>
+
+        <h3 class="yy-card-title">
+          More-than-Human HCI
+        </h3>
+
+        <p class="yy-card-text">
+          Extending interaction beyond the human to plants,
+          environments, materials, and other entities.
+        </p>
+
+      </div>
+
+
+      <div class="yy-card">
+
+        <div class="yy-card-index">
+          04
+        </div>
+
+        <h3 class="yy-card-title">
+          Cultural Heritage
+        </h3>
+
+        <p class="yy-card-text">
+          Translating culturally dense knowledge and heritage
+          into meaningful interactive experiences.
+        </p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div class="research-reveal">
+
+  <div class="yy-stats">
+
+    <div class="yy-stat">
+      <span class="yy-stat-number"
+            data-count="4">
+        0
+      </span>
+
+      <span class="yy-stat-label">
+        Research Areas
+      </span>
+    </div>
+
+
+    <div class="yy-stat">
+      <span class="yy-stat-number"
+            data-count="19">
+        0
+      </span>
+
+      <span class="yy-stat-label">
+        Study Participants
+      </span>
+    </div>
+
+
+    <div class="yy-stat">
+      <span class="yy-stat-number"
+            data-count="70">
+        0
+      </span>
+
+      <span class="yy-stat-label">
+        Samples Reviewed
+      </span>
+    </div>
+
+  </div>
+
+</div>
 
 </section>
 
