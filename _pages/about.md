@@ -22,13 +22,48 @@ Hi, I'm **Yuxiu Yan**, a Master's student in **Industrial Design** at [***Xi'an 
 My research focuses on **embodied interaction and Human–AI interaction**, exploring how **multisensory experiences can make invisible phenomena perceptible**—from embodied and physiological states to the environmental and cultural dimensions of technology. I am interested in bridging **design practice and HCI research** to create new ways of sensing, reflecting, and relating to the world around us.
 
 <div class="opportunity-note">
-  <div class="opportunity-title">📌 Currently open to opportunities</div>
+  <div class="pin">📌</div>
+  <div class="opportunity-title">a small note</div>
   <div class="opportunity-text">
-    I am currently applying to PhD programs and remain open to
-    <strong>research assistant (RA) positions and research collaborations</strong>.
+    I am currently applying to PhD programs and am open to
+    <strong>RA positions and research collaborations</strong>.
     Feel free to reach out about potential opportunities. <strong>: )</strong>
   </div>
 </div>
+
+<style>
+.opportunity-note {
+  position: relative;
+  margin: 2rem 0 2.5rem;
+  padding: 1.5rem 1.6rem 1.4rem;
+  background: #FFF7F8;
+  border: 1px solid #F1CCD4;
+  border-radius: 12px;
+}
+
+.opportunity-note .pin {
+  position: absolute;
+  top: -15px;
+  right: 18px;
+  font-size: 1.6rem;
+  transform: rotate(8deg);
+}
+
+.opportunity-title {
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.opportunity-text {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.opportunity-text strong {
+  font-weight: 600;
+}
+</style>
 
 
 # 🔥 News
