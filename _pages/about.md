@@ -37,35 +37,6 @@ I am a Research Assistant at the **Experience and Interaction Lab, XJTLU**, work
 
 **Dec 2025** — Joined the **Experience and Interaction Lab at Xi'an Jiaotong-Liverpool University** as a Research Assistant, advised by **Dr. Mengjie Huang**.
 
-
-# 📝 Publications
-
-## Conference Papers
-
-**[1]** Yan, Y., Huang, M., Wang, X., Su, C., & Yang, R. (2026). *A Research-Led Learning Framework for Human-Centered AI: Designing for Emotional Well-being through Interdisciplinary Integration.* International Conference on Artificial Intelligence in Education (ICAIE 2026). **Accepted.**
-**Excellent Oral Presentation Award, ICAIE 2026.**
-
-**[2]** Chen, X., Cao, J., Yan, Y., & Xu, M. (2026). *In-Class Flipped Classroom in VR Environments: The Trade-off between Knowledge Retention and Design Confidence.* 2026 8th International Conference on Computer Science and Technologies in Education (CSTE 2026), 28–34. [\(DOI\)](https://doi.org/10.1109/CSTE69562.2026.11649593)
-
-## Manuscripts Under Review
-
-**[3]** Yan, Y., Chen, C.-X., Cui, Z., Ye, Z., ten Bhomer, M., & Zhou, A.-L. (2026). *Somatic Complicity: Revealing the Hidden Cost of LLM Interaction.* Under review, ACM International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2027).
-
-**[4]** Yan, Y., Huang, M., & Yang, R. (2026). *A Scoping Review of Human-Plant Interaction.* Under review, International Journal of Human-Computer Interaction (IJHCI).
-
-**[5]** Xu, H., Yan, Y., Liu, G., Yu, B., Xue, M., Zuo, T., Hu, J., & Shen, M. (2026). *Where Heritage Still Does Design Work: Translating Dunhuang into Serious-Purpose Interaction Design.* Under review, ACM Conference on Human Factors in Computing Systems (CHI 2027).
-
-
-# 🎖 Honors and Awards
-
-* **Silver Award**, Marathon International Design Workshop — *Oct 2023*
-
-* **Second Prize**, 2nd Hong Kong Digital Art and Design Competition (HKDADC) — *Jun 2023*
-
-* **Third Prize**, National Advertising Art Competition for College Students (Sichuan Province) — *Sep 2022*
-
-* **Comprehensive Scholarship (Third Prize)**, Southwest Jiaotong University — *2021–2023*
-
 # 🎓 Education
 
 <div style="display: flex; align-items: center; margin-bottom: 6px;">
@@ -86,6 +57,23 @@ GPA: **3.79/4.0** · Merit-based Postgraduate Scholarship (**30% Tuition Reducti
 **Bachelor of Product Design**, Chengdu, China  
 GPA: **3.55/4.0** · **Outstanding Graduate (University Level)**
 
+# 📝 Publications
+
+## Conference Papers
+
+**[1]** Yan, Y., Huang, M., Wang, X., Su, C., & Yang, R. (2026). *A Research-Led Learning Framework for Human-Centered AI: Designing for Emotional Well-being through Interdisciplinary Integration.* International Conference on Artificial Intelligence in Education (ICAIE 2026). **Accepted.**
+**Excellent Oral Presentation Award, ICAIE 2026.**
+
+**[2]** Chen, X., Cao, J., Yan, Y., & Xu, M. (2026). *In-Class Flipped Classroom in VR Environments: The Trade-off between Knowledge Retention and Design Confidence.* 2026 8th International Conference on Computer Science and Technologies in Education (CSTE 2026), 28–34. [\(DOI\)](https://doi.org/10.1109/CSTE69562.2026.11649593)
+
+## Manuscripts Under Review
+
+**[3]** Yan, Y., Chen, C.-X., Cui, Z., Ye, Z., ten Bhomer, M., & Zhou, A.-L. (2026). *Somatic Complicity: Revealing the Hidden Cost of LLM Interaction.* Under review, ACM International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2027).
+
+**[4]** Yan, Y., Huang, M., & Yang, R. (2026). *A Scoping Review of Human-Plant Interaction.* Under review, International Journal of Human-Computer Interaction (IJHCI).
+
+**[5]** Xu, H., Yan, Y., Liu, G., Yu, B., Xue, M., Zuo, T., Hu, J., & Shen, M. (2026). *Where Heritage Still Does Design Work: Translating Dunhuang into Serious-Purpose Interaction Design.* Under review, ACM Conference on Human Factors in Computing Systems (CHI 2027).
+
 # 💻 Internships
 
 <div style="display: flex; align-items: center; margin-bottom: 8px;">
@@ -101,6 +89,16 @@ Coordinated packaging development for **12 products**, managing design iteration
   <img src="/images/siemens-logo.png" alt="Siemens" style="width: 36px; height: 36px; object-fit: contain; margin-right: 10px;">
   <strong>Siemens Ltd., China | User Experience Intern</strong>
 </div>
+
+# 🎖 Honors and Awards
+
+* **Silver Award**, Marathon International Design Workshop — *Oct 2023*
+
+* **Second Prize**, 2nd Hong Kong Digital Art and Design Competition (HKDADC) — *Jun 2023*
+
+* **Third Prize**, National Advertising Art Competition for College Students (Sichuan Province) — *Sep 2022*
+
+* **Comprehensive Scholarship (Third Prize)**, Southwest Jiaotong University — *2021–2023*
 
 *Jan 2024 – Jul 2024*
 
